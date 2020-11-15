@@ -1,3 +1,5 @@
+package src;
+
 import java.util.Arrays;
 
 /**删除一个元素
